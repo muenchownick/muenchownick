@@ -1,0 +1,45 @@
+body {
+  background-color: #add8e6;
+  font-family: sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: serif;
+}
+
+h3 {
+  text-align: center;
+  font-variant: small-caps;
+}
+
+h4 {
+  text-indent: 30px;
+  font-variant: small-caps;
+}
+
+.sidebar {
+  width: 35%;
+  border: 2px solid black;
+  float: left;
+  background-color: #faebd7;
+  padding: 50px;
+  margin-right: 15px;
+}
+
+.Rsidebar {
+  width: 35%;
+  border: 2px solid black;
+  float: right;
+  background-color: #faebd7;
+  padding: 50px;
+}
+
+ol.c {
+    list-style-type: upper-roman;
+    font-variant: small-caps;
+  }
+
+.jumbotron {
+  background-color: #fdf7ef;
+}
